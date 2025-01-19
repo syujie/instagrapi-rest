@@ -1,9 +1,8 @@
-fastapi==0.65.1
-uvicorn==0.11.3
+fastapi
 ipython
 instagrapi==2.1.3
 python-multipart==0.0.5
-Pillow==8.1.1
+Pillow
 moviepy==1.0.3
 pytest-asyncio==0.14.0
 httpx==0.17.1

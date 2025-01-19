@@ -1,5 +1,6 @@
 fastapi
 ipython
+uvicorn
 instagrapi==2.1.3
 python-multipart==0.0.5
 Pillow
